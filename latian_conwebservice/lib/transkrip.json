@@ -1,0 +1,25 @@
+{
+    "mahasiswa": "John Doe",
+    "nim": "123456789",
+    "mata_kuliah": [
+      {
+        "kode": "MAT101",
+        "nama": "Matematika Dasar",
+        "sks": 3,
+        "nilai": "A"
+      },
+      {
+        "kode": "BIO101",
+        "nama": "Biologi Dasar",
+        "sks": 2,
+        "nilai": "B+"
+      },
+      {
+        "kode": "PHY101",
+        "nama": "Fisika Dasar",
+        "sks": 4,
+        "nilai": "A-"
+      }
+    ]
+  }
+  
